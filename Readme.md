@@ -1,9 +1,12 @@
-# OpenVtuber-虚拟アイドル共享计划
+
 
 <p align="center"><img src="https://s3.ax1x.com/2020/12/12/rVO3FO.gif" /></p>
 <p align="center"><img src="https://s3.ax1x.com/2020/12/12/rZeXD0.gif" /></p>
 
-[![License](https://badgen.net/github/license/1996scarlet/OpenVtuber)](LICENSE)
+
+https://sketchfab.com/tags/vrm
+
+
 [![ECCV](https://badgen.net/badge/ECCV/2018/red)](https://openaccess.thecvf.com/content_ECCV_2018/html/Seonwook_Park_Deep_Pictorial_Gaze_ECCV_2018_paper.html)
 
 OpenVtuber: An application of real-time face and gaze analyzation via deep nerual networks.
