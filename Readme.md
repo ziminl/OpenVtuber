@@ -95,35 +95,3 @@ python3 service/TFLiteIrisLocalization.py <your-video-path>
 
 More details about 3D gaze estimation can be found at the [Laser Eye](https://github.com/1996scarlet/Laser-Eye) repository.
 
-## Special Thanks
-
-* [threejs.org](https://threejs.org/): Applying Three.js WebGL Loader to render MMD models on web pages.
-* [kizunaai.com](http://kizunaai.com/): モデルは無料でご利用いただけます.
-
-## Citation
-
-``` bibtex
-@inproceedings{park2018deep,
-  title={Deep pictorial gaze estimation},
-  author={Park, Seonwook and Spurr, Adrian and Hilliges, Otmar},
-  booktitle={Proceedings of the European conference on computer vision (ECCV)},
-  pages={721--738},
-  year={2018}
-}
-
-@inproceedings{liu2018receptive,
-  title={Receptive field block net for accurate and fast object detection},
-  author={Liu, Songtao and Huang, Di and others},
-  booktitle={Proceedings of the European conference on computer vision (ECCV)},
-  pages={385--400},
-  year={2018}
-}
-
-@inproceedings{ke2017efficient,
-  title={An efficient algebraic solution to the perspective-three-point problem},
-  author={Ke, Tong and Roumeliotis, Stergios I},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={7225--7233},
-  year={2017}
-}
-```
