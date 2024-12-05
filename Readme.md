@@ -14,6 +14,8 @@ https://live3d.io/vtuber-model
 
 https://sample-files-online.com/ko/samples/vrm
 
+https://hub.vroid.com/en
+
 [![ECCV](https://badgen.net/badge/ECCV/2018/red)](https://openaccess.thecvf.com/content_ECCV_2018/html/Seonwook_Park_Deep_Pictorial_Gaze_ECCV_2018_paper.html)
 
 OpenVtuber: An application of real-time face and gaze analyzation via deep nerual networks.
